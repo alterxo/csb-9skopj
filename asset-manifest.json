@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-9skopj/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://.github.io/csb-9skopj/static/js/main.b779d78a.chunk.js",
-    "main.js.map": "https://.github.io/csb-9skopj/static/js/main.b779d78a.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-9skopj/static/js/runtime-main.3344a37d.js",
-    "runtime-main.js.map": "https://.github.io/csb-9skopj/static/js/runtime-main.3344a37d.js.map",
-    "static/js/2.33f0bf01.chunk.js": "https://.github.io/csb-9skopj/static/js/2.33f0bf01.chunk.js",
-    "static/js/2.33f0bf01.chunk.js.map": "https://.github.io/csb-9skopj/static/js/2.33f0bf01.chunk.js.map",
-    "index.html": "https://.github.io/csb-9skopj/index.html",
-    "static/css/main.f29ae65a.chunk.css.map": "https://.github.io/csb-9skopj/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://.github.io/csb-9skopj/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+    "main.css": "https://alterxo.github.io/csb-9skopj/static/css/main.bed975f9.chunk.css",
+    "main.js": "https://alterxo.github.io/csb-9skopj/static/js/main.b10b17f9.chunk.js",
+    "main.js.map": "https://alterxo.github.io/csb-9skopj/static/js/main.b10b17f9.chunk.js.map",
+    "runtime-main.js": "https://alterxo.github.io/csb-9skopj/static/js/runtime-main.04dc2262.js",
+    "runtime-main.js.map": "https://alterxo.github.io/csb-9skopj/static/js/runtime-main.04dc2262.js.map",
+    "static/js/2.b99aae93.chunk.js": "https://alterxo.github.io/csb-9skopj/static/js/2.b99aae93.chunk.js",
+    "static/js/2.b99aae93.chunk.js.map": "https://alterxo.github.io/csb-9skopj/static/js/2.b99aae93.chunk.js.map",
+    "index.html": "https://alterxo.github.io/csb-9skopj/index.html",
+    "static/css/main.bed975f9.chunk.css.map": "https://alterxo.github.io/csb-9skopj/static/css/main.bed975f9.chunk.css.map",
+    "static/js/2.b99aae93.chunk.js.LICENSE.txt": "https://alterxo.github.io/csb-9skopj/static/js/2.b99aae93.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3344a37d.js",
-    "static/js/2.33f0bf01.chunk.js",
-    "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.b779d78a.chunk.js"
+    "static/js/runtime-main.04dc2262.js",
+    "static/js/2.b99aae93.chunk.js",
+    "static/css/main.bed975f9.chunk.css",
+    "static/js/main.b10b17f9.chunk.js"
   ]
 }
